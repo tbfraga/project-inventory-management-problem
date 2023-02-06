@@ -1,4 +1,4 @@
-# project-problem-of-inventory-management
+# project-inventory-management-problem
 Project for the modeling and solution of the problem of inventory management in the plastic sector.
 
 - This work started in 2017 in a course guided by me, entitled Curso de Programação Aplicada.
